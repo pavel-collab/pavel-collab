@@ -30,9 +30,7 @@ I’m currently...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavel-collab&show_icons=true&theme=tokyonight)
 
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-collab&layout=compact&theme=tokyonight)
-</p>
 
 <!--
 **pavel-collab/pavel-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
